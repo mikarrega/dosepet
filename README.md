@@ -9,3 +9,7 @@
 <p>Utilize <code> npm i </code> para instalar os pacotes necessários</p>
 <p>Utilize <code> npm run dev </code> para inicializar o servidor</p>
 <p>A página deverá ser acessada através da url: <code> http://localhost:3000/ </code></p>
+
+# Observações
+<p>Este projeto está em desenvolvimento inicial</p>
+<p>Neste momento temos construído a página de login e início do menu navegação</p>

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mikarrega/dosepet/d392bf05eb50f0c73952c03cff2e53a90cd7f007/public/dosepet-logo-vertical.svg" width="500" />
+<img src="https://raw.githubusercontent.com/mikarrega/dosepet/d392bf05eb50f0c73952c03cff2e53a90cd7f007/public/dosepet-logo-vertical.svg" width="300" />
 
 # Sobre o projeto
 <p>Ajudamos a manter a saúde do seu animal de estimação em dia</p>

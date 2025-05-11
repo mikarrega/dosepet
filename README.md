@@ -17,5 +17,5 @@
 
 #Desenvolvedores
 
-Frontend: <a href="https://www.linkedin.com/in/michaeladafne/"><p>Mika</p></a>
-Backend: <a><p>Miris</p></a>
+Frontend: <a href="https://www.linkedin.com/in/michaeladafne/" target="_blank" rel="noopener noreferrer">Mika</a>
+Backend: <a href="https://www.linkedin.com/in/mirian-nascimento/" target="_blank" rel="noopener noreferrer">Miris</a>

@@ -15,7 +15,7 @@
 <p>Neste momento temos construído a página de login e início do menu navegação</p>
 
 
-#Desenvolvedores
+# Desenvolvedoras
 
 <p>Frontend: <a href="https://www.linkedin.com/in/michaeladafne/" target="_blank" rel="noopener noreferrer">Mika</a></p>
 <p>Backend: <a href="https://www.linkedin.com/in/mirian-nascimento/" target="_blank" rel="noopener noreferrer">Miris</a></p>

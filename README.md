@@ -3,6 +3,6 @@ Ajudamos a manter a saúde do seu animal de estimação em dia
 
 
 # Como rodar o projeto
-Utilize <code> npm i </code> para instalar os pacotes necessários
-Utilize <code> npm run dev </code> para inicializar o servidor
-A página deverá ser acessada através da url: <code> http://localhost:3000/ </code>
+<p>Utilize <code> npm i </code> para instalar os pacotes necessários</p>
+<p>Utilize <code> npm run dev </code> para inicializar o servidor</p>
+<p>A página deverá ser acessada através da url: <code> http://localhost:3000/ </code></p>

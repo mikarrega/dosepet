@@ -1,4 +1,6 @@
-# dosepet
+<img src
+
+# Sobre o projeto
 <p>Ajudamos a manter a saúde do seu animal de estimação em dia</p>
 <p>Enviamos lembretes de vacinação e medicamentos por e-mail</p>
 

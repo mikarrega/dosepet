@@ -13,6 +13,9 @@
 # Observações
 <p>Este projeto está em desenvolvimento inicial</p>
 <p>Neste momento temos construído a página de login e início do menu navegação</p>
+<p>Todo o frontend será desenvolvido em javascript utilizando Nextjs</p>
+<p> A biblioteca para component ainda não foi decidida</p>
+<p>O backend usará python com Django</p>
 
 
 # Desenvolvedoras

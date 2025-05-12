@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Roboto_Mono } from "next/font/google";
 import Link from "next/link";
 import "./globals.css";
 
-const geistSans = Geist({
+const geistSans = Roboto_Mono({
   variable: "--font-geist-sans",
   subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
+const geistMono = Roboto_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
 });
@@ -16,6 +16,12 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Dose Pet",
   description: "Ajudamos a manter a saúde do seu animal de estimação em dia",
+};
+
+// Simulação de autenticação (substitua por lógica real)
+const isAuthenticated = () => {
+  // Aqui você pode verificar cookies, tokens ou contexto de autenticação
+  return false; // Altere para `true` para simular um usuário autenticado
 };
 
 export default function RootLayout({
@@ -26,10 +32,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
-      <nav>
-          <Link href="/home">Início</Link>
-          <Link href="/about">Sobre</Link>
-        </nav>
+        {isAuthenticated() && ( // Exibe o menu apenas se o usuário estiver autenticado
+          <nav>
+            <Link href="/home">Início</Link>
+            <Link href="/about">Sobre</Link>
+          </nav>
+        )}
         {children}
       </body>
     </html>
